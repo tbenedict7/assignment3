@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/bokeh.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),  url("../images/cupcake.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -31,7 +31,7 @@ a:hover{
 }
 
 .par-quote {
-    background-image: linear-gradient(#fda7d9, #eefa63);
+    background-image: linear-gradient(#f7e4ef, #d1fcfa);
     display: inline;
     padding: 20px;
     width: 70%;
